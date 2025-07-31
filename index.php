@@ -4,7 +4,7 @@ ini_set('display_errors', 1);
 set_time_limit(0);
 
 // Bot configuration with hardcoded token
-$BOT_TOKEN = '8339486458:AAEQWpibqBGXc3wWBpZPu3e6JBnhIE5Nd74';
+$BOT_TOKEN = '8114682474:AAHvPo6h8yusOZaifYdi52_a9V23-dF13LY';
 $ADMIN_IDS = [7392785352]; // Add your real admin user IDs here
 
 // Force join channels - Replace with your actual channel usernames/IDs
